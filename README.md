@@ -98,9 +98,11 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output Waveform
 
-<img width="574" height="528" alt="image" src="https://github.com/user-attachments/assets/30c1dc03-ee09-493f-bf89-4abc8f7bda6a" />
+![Screenshot 2025-10-15 203839](https://github.com/user-attachments/assets/c1ac0a3d-4b89-4854-a741-6e5a98fd919e)
 
-<img width="534" height="516" alt="image" src="https://github.com/user-attachments/assets/ce408433-fa0c-462a-bd8e-14bc192bfcb6" />
+
+![Screenshot 2025-10-15 203905](https://github.com/user-attachments/assets/5d9676d3-542a-4945-aedb-d8521e512130)
+
 
 # Results
 
